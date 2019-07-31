@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">CSMS</string>
+    <string name="app_name_detail">Catalogue Slow Moving System</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_search">Cari</string>
+    <string name="action_reset">RESET</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_category">Kategori</string>
+    <string name="title_create">Tambah</string>
+    <string name="title_activity_create">Tambah Data</string>
+    <string name="title_activity_view_type">Pilih Mode Tampilan</string>
+    <string name="title_activity_category">Pilih Katefori</string>
+    <string name="title_activity_search">Pencarian</string>
+    <string name="title_activity_view">Detail</string>
+    <string name="title_activity_zoom">Zoom</string>
+
+    <string name="empty_placeholder">-</string>
+    <string name="empty_data">Tidak ada data.</string>
+
+    <string name="label_title">Judul</string>
+    <string name="label_stock_code">Stock Code</string>
+    <string name="label_part_number">Part Number</string>
+    <string name="label_mnemonic">Mnemonic</string>
+    <string name="label_category">Kategori</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="label_image">Gambar Alat</string>
+    <string name="label_site">Site</string>
+    <string name="label_availability">Availability</string>
+
+    <string name="dialog_msg_delete">Hapus data ini?</string>
+    <string name="dialog_msg_discard">Buang perubahan data?</string>
+    <string name="dialog_ok">Ya</string>
+    <string name="dialog_cancel">Batal</string>
+
+    <string name="label_sort">Sort</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_view">View</string>
+    <string name="label_search_by">Cari Berdasarkan</string>
+    <string name="label_keyword">Kata Kunci</string>
+    <string name="label_close">Tutup</string>
+    <string name="label_change">Ubah</string>
+
+    <string name="nav_profile">Profil</string>
+    <string name="nav_contact">Hubungi Kami</string>
+    <string name="nav_about">Tentang Aplikasi</string>
+
+    <string name="info_name">NSFW Team</string>
+    <string name="info_position">
+        3.34.16.0.04 - Dinta Aditya F
+        3.34.16.0.07 - Fikri Ilham A
+        3.34.16.0.09 - Hendrawan S
+        3.34.16.0.14 - Malvian Dwi H
+    </string>
+    <string name="info_phone">082123880897</string>
+    <string name="info_description">Aplikasi ini bertujuan untuk mengurangi spare part slow moving.</string>
+</resources>

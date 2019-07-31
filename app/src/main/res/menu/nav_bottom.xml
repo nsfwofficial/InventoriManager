@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_nav_bot_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_category"
+        android:icon="@drawable/ic_nav_bot_dashboard"
+        android:title="@string/title_category" />
+
+    <item
+        android:id="@+id/navigation_create"
+        android:icon="@drawable/ic_nav_bot_add_circle"
+        android:title="@string/title_create" />
+
+</menu>
